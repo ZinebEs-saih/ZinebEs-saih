@@ -20,4 +20,4 @@ Tools: Git, IntelliJ IDEA, Eclipse, Postman, VS Code
 
 📫 Contact me: zineb.essaih02@gmail.com
 
-💼 LinkedIn Profile
+💼 [Zineb Es-saih on LinkedIn](https://www.linkedin.com/in/zineb-essaih)
