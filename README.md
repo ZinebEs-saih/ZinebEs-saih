@@ -1,7 +1,9 @@
 👋 Hi there, I'm Zineb Es-saih
 
 💻 Full Stack Developer (Java | Spring Boot | React | Angular )
+
 🎓 Currently in training at Jobintech — Full Stack Java Spring & React (UIA)
+
 🎓 Bachelor’s degree in Medical Informatics – FS Ain Chock Casablanca 
 
 
